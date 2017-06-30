@@ -1,5 +1,5 @@
 ﻿using System;  
-using System.Data;
+
 namespace DesinePattern
 {
     public class Cricle : IShape
